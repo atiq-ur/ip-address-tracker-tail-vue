@@ -1,4 +1,4 @@
-# app
+# IP Address Tracker using Vue 3 and Tailwind CSS 3
 
 ## Project setup
 
